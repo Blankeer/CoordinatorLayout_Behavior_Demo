@@ -27,3 +27,5 @@
 子类去实现childChange方法,根据这个百分比具体去缩放or位移.
 效果图:
 
+![gif](https://raw.githubusercontent.com/Blankeer/CoordinatorLayout_Behavior_Demo/master/image/behavior.gif)
+
